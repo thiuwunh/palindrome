@@ -1,0 +1,11 @@
+YES
+23
+YES
+19
+NO
+YES
+21
+YES
+22
+YES
+19
